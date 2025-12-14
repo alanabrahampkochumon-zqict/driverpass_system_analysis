@@ -19,7 +19,7 @@ The goal of this project was to design a web-based system that enables students 
 My primary responsibility was requirements analysis and system design. I translated the client interview into clear functional and nonfunctional requirements, then produced system design artifacts including use case, activity, sequence, and class diagrams.
 
 One area I did particularly well was ensuring that the system design remained closely aligned with the client’s business goals, such as role-based access, appointment tracking, and DMV content updates, while keeping the diagrams understandable for both technical and nontechnical stakeholders.
-
+---
 ## Revision Plans
 
 If I could revise one part of this work, I would expand the behavioral diagrams, particularly by adding more activity and sequence diagrams for complex user interactions. I would also enhance the presentation materials to better emphasize business value, such as efficiency gains, scalability, and risk reduction, rather than focusing primarily on technical structure.
